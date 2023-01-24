@@ -20,7 +20,7 @@
 
 
 
-Authors: [CHUKWUEMEKA OLUCHUKWU](https://github.com/thenoxbox) 
+Authors: [CHUKWUEMEKA OLUCHUKWU,](https://github.com/thenoxbox) 
          [IBRAHIM AJIBOSE](https://github.com/Ajibose)
 
 
